@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Stephanie Aelmore",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://believeinlain.github.io/images/pfp.png",
+    "email": "saelmore@hawaii.edu",
+    "phone": "(207) 206-6182",
+    "website": "https://believeinlain.github.io",
+    "summary": "Work in progess, information currently hosted here is not accurate or up to date.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "believeinlain",
+        "url": "http://github.com/believeinlain"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Stephanie Aelmore",
+        "url": "http://linkedin.com/in/stephanie-aelmore"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "believeinlain",
+        "url": "http://twitter.com/believeinlain"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "believeinlain",
+        "url": "http://instagram.com/believeinlain"
       }
     ]
   },
