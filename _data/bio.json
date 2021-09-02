@@ -39,19 +39,22 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "interactive media",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "neuromorphic computing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "quantum computing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "3D graphics",
       "keywords": [
       ]
     }
