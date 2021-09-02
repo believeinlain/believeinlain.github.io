@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/planetgen-square.jpg
+image: images/planetgen-square.png
 title: Planet Generator
 permalink: projects/planetgen
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
 summary: Simple 3D planet generator web app written in TypeScript using Babylon.js as a frontend.
 ---
 
-![screenshot](./images/planetgen-screenshot.jpg)
+![screenshot](/images/planetgen-screenshot.png)
 
 Planetgen is currently hosted on my personal site at [http://connectiveunconscious.com/planetgen/]().
 
