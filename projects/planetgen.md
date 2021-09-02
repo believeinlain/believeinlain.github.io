@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ./images/planetgen-square.jpg
+image: images/planetgen-square.jpg
 title: Planet Generator
 permalink: projects/planetgen
 # All dates must be YYYY-MM-DD format!
