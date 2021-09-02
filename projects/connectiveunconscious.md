@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cu-square.png
 title: Connective Unconscious
-permalink: projects/planetgen
+permalink: projects/connectiveunconscious
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
 labels:
