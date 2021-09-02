@@ -14,7 +14,7 @@ labels:
 summary: My personal website built in Node.js using Jade and Express to deliver photos, poetry, and applets.
 ---
 
-![screenshot](/images/cu-page.png)
+<img src="../images/cu-page.png" width="640">
 
 The Connective Unconscious is currently hosted [here](http://connectiveunconscious.com/).
 
