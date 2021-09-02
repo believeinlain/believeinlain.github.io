@@ -42,5 +42,5 @@ The [Node.js](https://nodejs.org/en/) platform provides an excellent tool for in
 The best way to start learning any programming language is just to start coding. [JSFiddle](https://jsfiddle.net) provides an easy-to-use environment to support simple to moderately advanced web apps, with windows to input HTML, CSS, JavaScript, and the resulting display and console output. Start by building a pared down version of something you want to make and work up from there. The sky's the limit!
 
 One fun thing you can try to measure your progress is completing the same project from scratch multiple times, timing yourself each time. If you're seeking a job in software engineering, this will help you to practice for timed coding interviews, as well as helping you get to the point where you can write code as naturally as you can speak your native language.  
-
-#
+  
+  
