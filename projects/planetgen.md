@@ -13,6 +13,6 @@ summary: Simple 3D planet generator web app written in TypeScript using Babylon.
 
 ![screenshot](/images/planetgen-screenshot.png)
 
-Planetgen is currently hosted on my personal site at http://connectiveunconscious.com/planetgen/.
+Planetgen is currently hosted on my personal site [here](http://connectiveunconscious.com/planetgen/).
 
 More info to come later.  
