@@ -22,7 +22,7 @@ The website is built as a server-side Node.js app with Jade as a templating engi
 
 All css is custom made, and the photos are loaded dynamically using a json file as a rudimentary database. A custom route is generated for each photo, and in the 日本の夢 album, the poetry is stored in the same json file as the photo filenames.
 
-## Function used to generate routes for each photo in a given album
+## Sample code for serving photos
 ```js
 function serve_photo_album(album_name, display_name) {
   // read the list of captions
@@ -30,16 +30,20 @@ function serve_photo_album(album_name, display_name) {
     `./public/${album_name}/captions.json`, 'utf-8'));
   var photo_array = Object.getOwnPropertyNames(captions);
 
+  // set the route to the album name
   router.get(`/${album_name}/`, function(req, res, next) {
+    // handle each request
     var image = req.query['image'];
     if (!image) {
       res.redirect(`/${album_name}/?image=0`);
       return;
     }
+    // ensure valid photo id
     var photo_id = 0;
     if ((image >= 0) && (image < photo_array.length)) {
       photo_id = Number(image);
     }
+    // set next and last link values
     var last_id = (photo_id-1)>=0 ? photo_id-1 : photo_array.length-1;
     var next_id = (photo_id+1)==photo_array.length ? 0 : photo_id+1; 
     var photo_name = photo_array[photo_id].trim();
