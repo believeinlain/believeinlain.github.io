@@ -19,15 +19,21 @@ summary: Asynchronous computer vision motion detector for event cameras build in
 Events representing changes in brightness as boats moving through a harbor. Note the high density of events produced by waves, which we are not interested in tracking.
 
 ![events+frames](/images/frame_177_events+frames+annot.jpg)  
-Events on top of conventional frames captured, will annotations illustrating objects of interest.
+Events on top of conventional frames captured, with annotations highlighting objects of interest.
 
 ![events+frames](/images/frame_177_pmd.jpg)  
-Resulting output from the, with estimated velocities and confidence based on motion analysis of tracked clusters.
+Resulting output from the Persistent Motion Detector, with estimated velocities and confidence based on motion analysis of tracked clusters.
+
+The Persistent Motion Detector is written in C++ and loaded as a Python extension to provide an easy-to-use frontend for development and interfacing with other Python libraries for event-based data processing.
+
+## Overview of the Persistent Motion Detector algorithm
+![PMD Block Diagram](/images/pmd.png)  
+
 
 Source code is available [here](https://github.com/believeinlain/asynch-cv).
 
 ## Acknowledgements
 
-Submitted to [AIPR Workshop](https://www.aipr-workshop.org) 2021.  
+Submitted to [AIPR Workshop](https://www.aipr-workshop.org) 2021 with the title *Real-Time Event-Based Tracking and Detection for Maritime Environments*.  
 
 Developed with financial support from University of California San Marcos and Naval Information Warfare Center Pacific.  
