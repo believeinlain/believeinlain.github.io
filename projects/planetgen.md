@@ -19,7 +19,9 @@ Existing random planet generators usually take a top-down approach to designing 
 
 ![screenshot](/images/planetgen-lod0.png)
 
-At the lowest level of detail (LOD), a planet is generated as an icosahedron and faultlines are randomly created between faces. Tectonic plates are assigned to the vertices as divided by the faultlines. As the planet is subdivided, more detail is added, but the initial overall plate structure is preserved. Try adjusting the LOD slider on the [live demo](http://connectiveunconscious.com/planetgen/) hosted on my site.
+At the lowest level of detail (LOD), a planet is generated as an icosahedron and faultlines are randomly created between faces. Tectonic plates are assigned to the vertices as divided by the faultlines. As the planet is subdivided, more detail is added, but the initial overall plate structure is preserved. 
+
+Try adjusting the LOD slider on the [live demo](http://connectiveunconscious.com/planetgen/) hosted on my site!  
 
 ## Sample code from **planet.ts**
 ```js
