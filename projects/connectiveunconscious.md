@@ -18,4 +18,4 @@ summary: My personal website built in Node.js using Jade and Express to deliver 
 
 The Connective Unconscious is currently hosted [here](http://connectiveunconscious.com/).
 
-More info to come later.  
+Source code is available [here](https://github.com/believeinlain/connectiveunconscious).
