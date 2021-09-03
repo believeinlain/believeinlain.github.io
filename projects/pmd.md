@@ -27,7 +27,7 @@ Resulting output from the Persistent Motion Detector, with estimated velocities 
 The Persistent Motion Detector is written in C++ and loaded as a Python extension to provide an easy-to-use frontend for development and interfacing with other Python libraries for event-based data processing.
 
 ## Overview of the Persistent Motion Detector algorithm
-![PMD Block Diagram](/images/pmd.png)  
+<img src="../images/pmd.png" width="640" alt="PMD Block Diagram">
 
 
 Source code is available [here](https://github.com/believeinlain/asynch-cv).
