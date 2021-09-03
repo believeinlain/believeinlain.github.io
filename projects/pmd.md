@@ -15,8 +15,8 @@ summary: Asynchronous computer vision motion detector for event cameras build in
 
 Source code can be found [here](https://github.com/believeinlain/asynch-cv).
 
-Sublitted to [AIPR Workshop](https://www.aipr-workshop.org) 2021.
+## Acknowledgements
 
-Developed with financial support from University of California San Marcos and Naval Information Warfare Center Pacific.
+Sublitted to [AIPR Workshop](https://www.aipr-workshop.org) 2021.  
 
-More info to come later.  
+Developed with financial support from University of California San Marcos and Naval Information Warfare Center Pacific.  
