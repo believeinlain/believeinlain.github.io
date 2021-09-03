@@ -10,7 +10,7 @@ labels:
   - Python
   - C++
   - Computer Vision
-summary: Asynchronous computer vision motion detector for event cameras build in Python and C++.
+summary: Asynchronous computer vision motion detector for event cameras built in Python and C++.
 ---
 
 [Event cameras](https://en.wikipedia.org/wiki/Event_camera) are cameras that only capture changes in intensity rather than periodically capturing an entire frame. This gives them the advantage of extremely low latency and extremely high power efficiency over conventional cameras. The difficulty is that due to the event-based data they output, conventional computer vision approaches cannot be directly applied when working with event cameras.
