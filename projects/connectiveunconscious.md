@@ -26,7 +26,8 @@ All css is custom made, and the photos are loaded dynamically using a json file 
 ```js
 function serve_photo_album(album_name, display_name) {
   // read the list of captions
-  var captions = JSON.parse(fs.readFileSync(`./public/${album_name}/captions.json`, 'utf-8'));
+  var captions = JSON.parse(fs.readFileSync(
+    `./public/${album_name}/captions.json`, 'utf-8'));
   var photo_array = Object.getOwnPropertyNames(captions);
 
   router.get(`/${album_name}/`, function(req, res, next) {
