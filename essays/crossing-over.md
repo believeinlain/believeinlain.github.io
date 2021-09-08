@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img align="left" src="../images/MystCover.png" alt="Myst box art">
+<img align="left" src="../images/MystCover.png" alt="Myst box art" style="margin-right: 10px">
 
 In 1993, [Myst](https://en.wikipedia.org/wiki/Myst) released on Macintosh OS, and later on Windows 3.1. As the player, you explore different worlds and solve environmental puzzles - making *Myst* not too dissimilar from its peers of the time. The thing that struck me the most about it was the deep and rich backstory. In the game, these different worlds that you can visit are written into books. That is, if you create a special kind of book, and use the right ink, you can describe a world that you can then be physically transported to. Imagination crossing over into reality. And these books have rules, which if you don't follow result in instability. **Fissures and decay in the places described within.**
 
