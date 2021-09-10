@@ -28,13 +28,13 @@ People answering questions do not necessarily adhere to his style guide, nor do 
 
 An example of a so-called "ineffective" question might be the following (from [Stack Overflow](https://stackoverflow.com/questions/2392766/are-multi-line-strings-allowed-in-json)):  
 ### Are multi-line strings allowed in JSON?
-```
-Is it possible to have multi-line strings in JSON?
 
-It's mostly for visual comfort so I suppose I can just turn word wrap on in my editor, but I'm just kinda curious.
+>Is it possible to have multi-line strings in JSON?
+>
+>It's mostly for visual comfort so I suppose I can just turn word wrap on in my editor, but I'm just kinda curious.
+>
+>I'm writing some data files in JSON format and would like to have some really long string values split over multiple lines. Using python's JSON module I get a whole lot of errors, whether I use \ or \n as an escape.
 
-I'm writing some data files in JSON format and would like to have some really long string values split over multiple lines. Using python's JSON module I get a whole lot of errors, whether I use \ or \n as an escape.
-```
 Perhaps it seems simple and straightforward at first, but it is apparently unclear exactly what is being asked here. The most upvoted answers seem to be split between whether the OP is asking about how to add line continuation characters in JSON (like `\` in Python or `...` in MATLAB), and how to properly include the newline character `\n` into a JSON string so that it is correctly parsed by the Python interpreter.
 
 I find this question extremely interesting because it asks one question ineffectively but answers two. People come to this question seeking answers for one of the two and find the answer to both, because it manages to be vague in just the right way.
@@ -45,17 +45,17 @@ Ok, so maybe this is all irrelevant to you. You're just looking for tips on how 
 
 Here's an example of a question that I believe Raymond might like (from [Stack Overflow](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)): 
 ### How do I undo the most recent local commits in Git?
-```
-I accidentally committed the wrong files to Git, but didn't push the commit to the server yet.
 
-How can I undo those commits from the local repository?
+>I accidentally committed the wrong files to Git, but didn't push the commit to the server yet.
+>
+>How can I undo those commits from the local repository?
+>
+>The only way seems to be to copy the edits in some kind of GUI text editor, then wipe the whole local clone, then re-clone the repository, then re-applying the edits. However,
+>
+>This can cause data loss.
+>It's very hard to do this when only an accidental git commit was run.
+>Is there a better way?
 
-The only way seems to be to copy the edits in some kind of GUI text editor, then wipe the whole local clone, then re-clone the repository, then re-applying the edits. However,
-
-This can cause data loss.
-It's very hard to do this when only an accidental git commit was run.
-Is there a better way?
-```
 It's clear, concise, and describes the OP's understanding of the process as well as what they tried. It's one of the most upvoted comments on Stack Overflow. It's boring.
 
 ## My advice
