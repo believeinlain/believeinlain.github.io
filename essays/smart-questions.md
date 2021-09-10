@@ -41,7 +41,7 @@ I find this question extremely interesting because it asks one question ineffect
 
 ## Simply seeking answers
 
-Ok, so maybe this is all irrelevant to you. You're just looking for tips on how to get a satifying answer to your problem as quickly as possible. In that case, Raymond's article certainly provides a wealth of useful information. But his tone is dangerous, and his perpective is part of a toxic elitist culture, that permeates not just the internet, but society at large. **Ask stupid questions, and get interesting answers. Break the rules.** We are all a part of the internet, and we all get a say in what effective communication looks like. Language evolves, and what worked today might yield different results tomorrow.
+Ok, so maybe this is all irrelevant to you. You're just looking for tips on how to get a satisfying answer to your problem as quickly as possible. In that case, Raymond's article certainly provides a wealth of useful information. But his tone is dangerous, and his perpective is part of a toxic elitist culture, that permeates not just the internet, but society at large. **Ask stupid questions, and get interesting answers. Break the rules.** We are all a part of the internet, and we all get a say in what effective communication looks like. Language evolves, and what worked today might yield different results tomorrow.
 
 Here's an example of a question that I believe Raymond might like (from [Stack Overflow](https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git)): 
 ### How do I undo the most recent local commits in Git?
