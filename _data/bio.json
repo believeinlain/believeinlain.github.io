@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Stephanie Aelmore",
-    "label": "Computer Engineer",
+    "label": "B.S. Candidate, Computer Engineering",
     "picture": "https://github.com/believeinlain/believeinlain.github.io/blob/master/images/pfp.jpg?raw=true",
     "email": "saelmore@hawaii.edu",
-    "phone": "(207) 206-6182",
     "website": "https://believeinlain.github.io",
-    "summary": "Software developer with diverse hardware-focused experience with an interest in novel computing techlonogy and a passion for art and interactive media.",
+    "summary": "Software developer with diverse hardware-focused experience with an interest in novel computing techlonogy and a passion for art and interactive media. Expected gradutation date: May 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -127,8 +126,8 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Treasurer, IEE-HKN Delta Omega Chapter, 2021-Present",
-        "Member, IEEE Student Branch, 2014-Present"
+        "Treasurer, IEE-HKN Delta Omega Chapter, 2021-2022",
+        "Member, IEEE Student Branch, 2019-Present"
       ]
     }
   ],

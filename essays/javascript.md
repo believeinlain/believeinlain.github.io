@@ -11,6 +11,9 @@ labels:
   - Programming
 ---
 
+<img align="left" src="../images/javascript.jpg" alt="JavaScript" width="700">
+<!-- Image from shutterstock/-->
+
 If you clicked this, you're probably at least considering learning JavaScript, or maybe you're just curious why I think it's a good idea for anyone to learn. I hope that by the end of this post I've at least convinced you to give it a try.
 
 ## Near-universal cross-platform support
