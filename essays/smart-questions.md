@@ -3,9 +3,9 @@ layout: essay
 type: essay
 title: On so-called "smart" questions and elitism
 # All dates must be YYYY-MM-DD format!
-date: 2021-09-01
+date: 2021-09-09
 labels:
-  - Ethics
+  - Communication
   - Internet Culture
   - Questions
 ---
