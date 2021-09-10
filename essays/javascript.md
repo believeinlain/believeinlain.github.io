@@ -11,9 +11,6 @@ labels:
   - Programming
 ---
 
-<img align="left" src="../images/javascript.jpg" alt="JavaScript" width="700">
-<!-- Image from shutterstock/-->
-
 If you clicked this, you're probably at least considering learning JavaScript, or maybe you're just curious why I think it's a good idea for anyone to learn. I hope that by the end of this post I've at least convinced you to give it a try.
 
 ## Near-universal cross-platform support
@@ -45,4 +42,6 @@ The [Node.js](https://nodejs.org/en/) platform provides an excellent tool for in
 The best way to start learning any programming language is just to start coding. [JSFiddle](https://jsfiddle.net) provides an easy-to-use environment to support simple to moderately advanced web apps, with windows to input HTML, CSS, JavaScript, and the resulting display and console output. Start by building a pared down version of something you want to make and work up from there. The sky's the limit!
 
 One fun thing you can try to measure your progress is completing the same project from scratch multiple times, timing yourself each time. If you're seeking a job in software engineering, this will help you to practice for timed coding interviews, as well as helping you get to the point where you can write code as naturally as you can speak your native language.  
+
+Image from [https://en.wikipedia.org/wiki/Myst#/media/File:MystCover.png](https://en.wikipedia.org/wiki/Myst#/media/File:MystCover.png).
   

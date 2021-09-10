@@ -21,3 +21,5 @@ That's what programming means to me. A means to create a new reality simply by d
 Since I've studied the field of Computer Engineering in pursuit of my bachelor's degree, I've gained a more detailed understanding of the hardware and low-level software driving computers, and I'm comfortable with higher level abstractions and programming languages, but organizing and driving a long term larger project is a skill that I have yet to develop very well. In part because I've usually worked alone in the past, and in part because I keep losing focus.
 
 The more time I spend away from what initially inspired me, the more I lose faith. I need to create new worlds, and I need a better understanding of the art in order to accomplish that goal. The more diverse experiences I have in the field of software engineering, the closer I get to making it a reality. **To that end, I'm excited to see how I learn and grow into the future.**  
+
+Image from [https://en.wikipedia.org/wiki/Myst#/media/File:MystCover.png](https://en.wikipedia.org/wiki/Myst#/media/File:MystCover.png).
