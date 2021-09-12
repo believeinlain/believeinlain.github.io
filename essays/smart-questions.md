@@ -61,3 +61,4 @@ It's clear, concise, and describes the OP's understanding of the process as well
 ## My advice
 
 My advice to you if you're asking questions would be to say the first thing that comes to mind. Provide as much information as you think is necessary. Express yourself. People will take it as they will. If it gets downvoted, then try a different approach. Experiment. Communication isn't going to be solved by making and following a bunch of rules. And above all else, **speak creatively and listen intently.**  
+
