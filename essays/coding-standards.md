@@ -10,7 +10,9 @@ labels:
 
 ## In the interest of clarity
 
-intheearlydaysofwrittenlanguagetherewerentconventionssuchas spaces and capitalization
+intheearlydaysofwritten
+languagetherewerent
+conventionssuchas spaces and capitalization
 
 These practices don't carry meaning in themselves, and in fact many languages still don't use them. They developed in English and other written languages because they facilitate communication. Sentences are easier to read when punctuated in such a way. Punctuation itself developed with a similar purpose, although it can also clarify or completely change the tone and meaning of a phrase.
 
