@@ -30,3 +30,11 @@ int fib(unsigned int n) {
     else return fib(n - 2) + fib(n - 1);
 }
 ```
+
+This sort of human oriented coding practice makes it easier to pick up a piece of code written by another person and understand what each part does. Modern IDEs have automatic code formatting tools that will rewrite code to be more easily parsed by human eyes.
+
+## More than just readability
+
+"Coding standards" however, represent more than just readability. Project structure conventions and the use of standard library functions or global variables represent decisions that need to be made across a project. Switching paradigms when switching between files can lead to serious bugs, especially when new features are added.
+
+This is why when a company or community develops standards for coding practice that encompass best practices (such as avoiding the use of global variables or the `goto` statement) as well as style choices (such_as_using_snake_case). Linting tools for interpreted languages such as PyLance for Python and ESLint for JavaScript often suggest better approaches along these lines, usually making code more robust as well as more readable.
