@@ -1,0 +1,32 @@
+---
+layout: essay
+type: essay
+title: Standard practice - the intersection of style and substance
+# All dates must be YYYY-MM-DD format!
+date: 2021-09-23
+labels:
+  - Programming
+---
+
+## In the interest of clarity
+
+intheearlydaysofwrittenlanguagetherewerentconventionssuchas spaces and capitalization
+
+These practices don't carry meaning in themselves, and in fact many languages still don't use them. They developed in English and other written languages because they facilitate communication. Sentences are easier to read when punctuated in such a way. Punctuation itself developed with a similar purpose, although it can also clarify or completely change the tone and meaning of a phrase.
+
+Code is different from the written word in that it carries with it an exact specification for action, which is executed by the compiler or interpreter for that language. In that way, code can be understood as a direct communication from a human to a computer. An intimate conversation. No need for clarification.
+
+Take the C language function below:
+```c
+int fib(unsigned int n) {return !n?0:n>1?fib(n-2)+fib(n-1):1;}
+```
+A simple recursive function that computes the `n`th fibonnaci number. Completely trivial for a C compiler to understand, but painful for a human to read and comprehend. We could rewrite this function 100 different ways and they would all yield the same result. But code is not just for computers.
+
+To make the function more clear, we could rewrite it so:
+```c
+int fib(unsigned int n) {
+    if (n == 0) return 0;
+    else if (n == 1) return 1;
+    else return fib(n - 2) + fib(n - 1);
+}
+```
