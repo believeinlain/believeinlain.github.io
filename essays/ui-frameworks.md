@@ -24,9 +24,9 @@ For my personal website, I had a very specific look and feel in mind, and while 
 
 <div style="display: table">
   <div style="float: left; width: 50%">
-    <img src="images/../../images/ui-frameworks-css.png">
+    <img src="images/../../images/ui-frameworks-css.png" style="float: left; width: 100%">
   </div>
   <div style="float: left; width: 50%">
-    <img src="images/../../images/ui-frameworks-semantic.png">
+    <img src="images/../../images/ui-frameworks-semantic.png" style="float: left; width: 100%">
   </div>
 </div>
