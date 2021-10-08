@@ -22,7 +22,11 @@ A UI framework such as [Semantic-UI](https://semantic-ui.com) or [Twitter Bootst
 
 For my personal website, I had a very specific look and feel in mind, and while it is not quite as flexible as a webpage created in semantic-ui, it looks and functions exactly as I envisioned.
 
-<div style="layout: grid">
-  <img style="column: 1" src="images/../../images/ui-frameworks-css.png">
-  <img style="column: 2" src="images/../../images/ui-frameworks-semantic.png">
+<div style="display: table">
+  <div style="float: left; width: 50%">
+    <img src="images/../../images/ui-frameworks-css.png">
+  </div>
+  <div style="float: left; width: 50%">
+    <img src="images/../../images/ui-frameworks-semantic.png">
+  </div>
 </div>
