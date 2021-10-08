@@ -15,3 +15,5 @@ For this assignment, create an engaging and informative essay about UI Framework
 This essay is tailor made to include an image of a web page built with a UI framework (or even a comparison of web pages built with and without a UI framework).
 
 Feel free to go in another direction entirely, as long as you are discussing UI Frameworks, and as long as the result is interesting, informative, and insightful. Write for the world! -->
+
+The front-end of a webpage can be one of the most challenging platforms to design for. Many fonts and features are not supported uniformly among browsers, and users expect websites to be compatible with input from a mouse, a keyboard, or touchscreen, and able to cater to the nuances of each input method. Devices have widely different pixel density and aspect ratios. Although HTML and CSS have many built-in features to cater to such variance, when designing more complex functionality the amount of work necessary can quickly balloon the scope of a project.
