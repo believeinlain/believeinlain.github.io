@@ -30,3 +30,5 @@ For my personal website, I had a very specific look and feel in mind, and while 
     <img src="images/../../images/ui-frameworks-semantic.png" style="float: left; width: 100%">
   </div>
 </div>
+
+On the left is my homepage looking and functioning exactly as I intend, and on the right is my attempt at porting the page to use semantic-ui. I don't mean this as a criticism of semantic-ui, as I'm sure with more tuning and effort I could get it very close to what I created with pure HTML and CSS, but this serves as an example to showcase just how much formatting the framwork does under the hood, which would need to be identified and corrected with additional lines of css to override and realize the original design.
