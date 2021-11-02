@@ -9,7 +9,6 @@ labels:
 ---
 
 # Project: Classdoor
-Proposed by Scott Vore, Stephanie Aelmore, and Victor Ho.
 ## Overview
 *The problem:* It is hard to find information and resources about a specific class if you don’t know someone who has already taken it. Rate my professor requires you to find the professor that taught it before, and radgrad is only for ICS classes.  
 
@@ -42,3 +41,5 @@ Admin goes to landing page, logs in, and can view reports on bad users/reviews, 
 - Expand so that other campuses can use it too, with a different page for each participating campus (kind of like early Facebook).
 - Search courses based on the short hand (ICS 314), CRN, credit hours, 
 - Advanced search (similar to Star GPS, filter by prereqs, WI, OC, etc.)
+
+Proposed by Scott Vore, Stephanie Aelmore, and Victor Ho.
