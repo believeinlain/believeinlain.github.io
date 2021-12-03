@@ -26,3 +26,5 @@ Not every design I came up with was a trap. Since C++ was one of the first langu
 ## Design
 
 As I was interested in computer game development, I quickly found examples of event-based programming, an example of the Observer pattern, as well as many others that I could not necessarily name, but began to understand implicitly. Now the question of programming is one of which pattern to apply in which instance, as I know I'll be able to fill in the details without too much trouble.
+
+Over the years I've found applications for many design patterns. Model-View-Controller came up when managing server-client interactions in a web app with a database. As mentioned before, the Observer pattern is invaluable in interactive real-time applications such as games. Singletons provide a sane way to manage global state, without losing track of global variables, since wrapping them in relevant objects at least allows the way in which they change state together through methods. And finally, using functional programming whenever possible can make even the most convoluted code significantly easier to read and work with.
