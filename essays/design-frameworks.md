@@ -21,4 +21,8 @@ Eventually, over time I developed my own design patterns.
 
 ## Antipatterns
 
-Not every design I came up with was a trap. Since C++ was one of the first languages I learned, I understood the importance of encapsulation and abstraction - and since I had worked with Basic before that I understood how dangerous global variables can be. But I had to find some way to make things come together.
+Not every design I came up with was a trap. Since C++ was one of the first languages I learned, I understood the importance of encapsulation and abstraction - and since I had worked with BASIC before that I understood how dangerous global variables can be. But I had to find some way to make things come together. Usually I found myself leaning too hard into the things C++ does well, namely class inheritance and templates, resulting in a bulk of structural code without much substance.
+
+## Design
+
+As I was interested in computer game development, I quickly found examples of event-based programming, an example of the Observer pattern, as well as many others that I could not necessarily name, but began to understand implicitly. Now the question of programming is one of which pattern to apply in which instance, as I know I'll be able to fill in the details without too much trouble.
