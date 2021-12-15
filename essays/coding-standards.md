@@ -6,6 +6,7 @@ title: Standard practice - the intersection of style and substance
 date: 2021-09-23
 labels:
   - Programming
+  - Algorithms
 ---
 
 ## In the interest of clarity

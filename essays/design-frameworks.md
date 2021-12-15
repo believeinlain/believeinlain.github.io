@@ -8,6 +8,7 @@ labels:
   - Software Development
   - Programming
   - Design
+draft: true
 ---
 
 ### Most people seem to think of programming as a task of simply finding the right instructions to accomplish what they need to do. 
