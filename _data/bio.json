@@ -48,6 +48,11 @@
       ]
     },
     {
+      "name": "robotics",
+      "keywords": [
+      ]
+    },
+    {
       "name": "3D graphics",
       "keywords": [
       ]
@@ -60,8 +65,10 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Python",
-        "JavaScript (incl. TypeScript, ES6)"
+        "JavaScript (ES6)",
+        "TypeScript"
       ]
     },
     {
@@ -71,9 +78,9 @@
         "Windows",
         "Unix",
         "Ubuntu",
-        "Git/GitHub",
+        "Git",
         "Node.js",
-        "VS Code"
+        "Meteor"
       ]
     }
   ],
@@ -82,20 +89,31 @@
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Engineering",
       "studyType": "B.S.",
-      "startDate": "2019-01",
-      "endDate": "2022-05",
+      "startDate": "2019-01-10",
+      "endDate": "2022-05-18",
       "gpa": "3.89",
-      "courses": [
+      "courses": ["Operating Systems", "Software Engineering", "Interactive Media Design"
       ]
     }
   ],
   "work": [
     {
+      "company": "University of Hawaii at Manoa",
+      "position": "EE Teaching Assistant",
+      "website": "https://www.niwcpacific.navy.mil",
+      "startDate": "2022-01-10",
+      "endDate": "2022-05-18",
+      "summary": "Teaching Assistant for Basic Circuit Analysis II",
+      "highlights": [
+        "Teach/lead a general Electrical Engineering laboratory section (as assigned), hold office hours, grade lab reports, prepare and grade quizzes OR tutor students in a general electrical engineering room (as assigned)."
+      ]
+    },
+    {
       "company": "Naval Information Warfare Center Pacific (NIWC)",
       "position": "VTEC Intern",
       "website": "https://www.niwcpacific.navy.mil",
-      "startDate": "2020-01",
-      "endDate": "2021-08",
+      "startDate": "2020-01-10",
+      "endDate": "2021-08-20",
       "summary": "Research assistant for DoD basic research projects",
       "highlights": [
         "Evaluated, developed, and implemented asynchronous computer vision algorithms",
@@ -106,8 +124,8 @@
       "company": "United States Navy",
       "position": "Lead Supervisor",
       "website": "",
-      "startDate": "2012-10",
-      "endDate": "2018-10",
+      "startDate": "2012-10-03",
+      "endDate": "2018-10-02",
       "summary": "Served as technical consultant and operator on reactor instrumentation andd control systems",
       "highlights": [
         "Over a year as Lead Supervisor, provided direct mentorship over 10 people resulting in four promotions and three performance-based awards",
