@@ -15,7 +15,7 @@ summary: Web app built in Meteor with React and Semantic UI for connecting compa
 draft: true
 ---
 
-UH Career Match is a web app I developed along with my classmates for ICS 314, Software Engineering I, at UH Manoa. To accomplish this project, we used the [Meteor Framework](https://www.meteor.com) along with [React](https://reactjs.org), [Semantic UI](https://semantic-ui.com), and [MongoDB](https://www.mongodb.com).
+UH Career Match is a web app I developed along with my classmates for ICS 314: Software Engineering I, at UH Manoa. To accomplish this project, we used the [Meteor Framework](https://www.meteor.com) along with [React](https://reactjs.org), [Semantic UI](https://semantic-ui.com), and [MongoDB](https://www.mongodb.com).
 
 <img src="../images/cm-landing.png" width="700">
 
