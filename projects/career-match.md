@@ -36,6 +36,6 @@ The team worked together to implement the features necessary to address and clos
 - Update career-match.github.io with latest changes to close out module 2
 - Refactor to simplify profile/account association and fix bugs for deployment
 
-As evidenced by the issues I closed, I managed deployment and continuous integration, and played a part in application design and database management.
+As evidenced by the issues I closed, I managed deployment and continuous integration, and played a part in application design, database management, and documentation.
 
 Career Match was developed in collaboration with Cathy Kim, Gerald Lee, Ian Eshelman, and Jay Ramos. Read more about the project [here](https://career-match.github.io). Source code for the project can be found [here](https://github.com/career-match).
