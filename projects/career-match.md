@@ -10,13 +10,16 @@ labels:
   - JavaScript
   - Meteor
   - React
+  - MongoDB
 summary: Web app built in Meteor with React and Semantic UI for connecting companies with UH students via skill and location matching.
-draft: false
+draft: true
 ---
+
+UH Career Match is a web app I developed along with my classmates for ICS 314, Software Engineering I, at UH Manoa. To accomplish this project, we used the [Meteor Framework](https://www.meteor.com) along with [React](https://reactjs.org), [Semantic UI](https://semantic-ui.com), and [MongoDB](https://www.mongodb.com).
 
 <img src="../images/cm-landing.png" width="700">
 
-For managing this project, we used issue-driven development with Github Actions. I played the role of project manager, identifying tasks to meet our milestone requirements and creating an issue for each one.
+For project management, we used issue-driven development with Github. I played the role of project manager, identifying tasks to meet our milestone requirements and creating an issue for each one.
 
 <img src="../images/cm-project-management.png" width="700">
 
@@ -33,4 +36,6 @@ The team worked together to implement the features necessary to address and clos
 - Update career-match.github.io with latest changes to close out module 2
 - Refactor to simplify profile/account association and fix bugs for deployment
 
-Career Match was developed in collaboration with Cathy Kim, Gerald Lee, Ian Eshelman, and Jay Ramos. Read more about the project [here](https://career-match.github.io).
+As evidenced by the issues I closed, I managed deployment and continuous integration, and played a part in application design and database management.
+
+Career Match was developed in collaboration with Cathy Kim, Gerald Lee, Ian Eshelman, and Jay Ramos. Read more about the project [here](https://career-match.github.io). Source code for the project can be found [here](https://github.com/career-match).
