@@ -147,6 +147,17 @@
         "Treasurer, IEE-HKN Delta Omega Chapter, 2021-2022",
         "Member, IEEE Student Branch, 2019-Present"
       ]
+    },
+    {
+      "organization": "VIP Team RoSE",
+      "website": "http://www.uhmviprose.com",
+      "position": "Professional organization involvement",
+      "startDate": "2021-08-23",
+      "endDate": "Present",
+      "summary": "Lead Software Engineer for Instrumentation and Control Subsystem",
+      "highlights": [
+        "Designed rover control architecture using ROS"
+      ]
     }
   ],
   "awards": [
