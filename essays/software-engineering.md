@@ -9,3 +9,13 @@ labels:
 draft: true
 ---
 
+two or three of the following:
+- Open Source Software Development
+- Configuration Management
+- Functional Programming
+- Development Environments
+- Coding Standards
+- User Interface Frameworks
+- Agile Project Management
+- Design Patterns
+- Ethics in Software Engineering
