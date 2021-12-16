@@ -40,6 +40,6 @@ Source code is available [here](https://github.com/believeinlain/asynch-cv).
 
 ## Acknowledgements
 
-Submitted to [AIPR Workshop](https://www.aipr-workshop.org) 2021 with the title *Real-Time Event-Based Tracking and Detection for Maritime Environments*. Images and captions adapted from working manuscript.  
+Presented at [AIPR Workshop](https://www.aipr-workshop.org) 2021 with the title *Real-Time Event-Based Tracking and Detection for Maritime Environments*. Images and captions adapted from working manuscript.  
 
 Developed with financial support from University of California San Marcos and Naval Information Warfare Center Pacific.  
