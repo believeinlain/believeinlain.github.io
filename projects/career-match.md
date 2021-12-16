@@ -11,7 +11,7 @@ labels:
   - Meteor
   - React
 summary: Web app built in Meteor with React and Semantic UI for connecting companies with UH students via skill and location matching.
-draft: true
+draft: false
 ---
 
 <img src="../images/cm-landing.png" width="700">
