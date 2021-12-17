@@ -16,8 +16,8 @@ Over the course of my formal education, I've learned many algorithms, techniques
 
 ![](../images/methodology-agile.png)
 
-Finally, in my senior year of my Computer Engineering degree, I've been presented with the right tools to manage group projects so our efforts can be organized and combined effectively without constantly working against each other. Those tools were Agile Project Management and Continuous Integration.
+Finally, in the senior year of my Computer Engineering degree, I've been presented with the right tools to manage group projects so our efforts can be organized and combined effectively without constantly working against each other. Those tools were Agile Project Management and Continuous Integration.
 
 Agile Project Management is a term referring to the iterative cycle of Design -> Development -> Testing. Each time a new feature is added, testing must be conducted to ensure not only that the new feature works, but also that it didn't break existing functionality. Then the design can be modified or reconsidered. GitHub and other code repository hosts have tools for running a comprehensive test script with each change to a repository, making this process automatic and easy to use. Each developer just needs to add a test script to any new feature they add, and it will be automatically validated along with all existing tests. This process of automatic testing is called Continuous Integration.
 
-Image credit: [https://hive.com/blog/what-is-agile-project-management-methodology/](https://hive.com/blog/what-is-agile-project-management-methodology/)
+Image credit: [https://hive.com/blog/what-is-agile-project-management-methodology/](https://hive.com/blog/what-is-agile-project-management-methodology/) (Accessed 12/17/2021)
