@@ -5,9 +5,9 @@ title: Project Management - the most important aspect of development
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-17
 labels:
-  - Software Engineering
+  - Software Development
   - Agile Project Management
-  - Continuous Integration
+  - Programming
 
 draft: false
 ---
