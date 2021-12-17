@@ -20,4 +20,6 @@ Finally, in the senior year of my Computer Engineering degree, I've been present
 
 Agile Project Management is a term referring to the iterative cycle of Design -> Development -> Testing. Each time a new feature is added, testing must be conducted to ensure not only that the new feature works, but also that it didn't break existing functionality. Then the design can be modified or reconsidered. GitHub and other code repository hosts have tools for running a comprehensive test script with each change to a repository, making this process automatic and easy to use. Each developer just needs to add a test script to any new feature they add, and it will be automatically validated along with all existing tests. This process of automatic testing is called Continuous Integration.
 
+I was also taught the tools for managing tasks using the GitHub Projects interface.
+
 Image credit: [https://hive.com/blog/what-is-agile-project-management-methodology/](https://hive.com/blog/what-is-agile-project-management-methodology/) (Accessed 12/17/2021)
