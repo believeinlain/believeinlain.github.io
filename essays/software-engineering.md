@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Continuous Integration - the most important aspect of development
+title: Project Management - the most important aspect of development
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-17
 labels:
