@@ -22,4 +22,4 @@ Since I've studied the field of Computer Engineering in pursuit of my bachelor's
 
 The more time I spend away from what initially inspired me, the more I lose faith. I need to create new worlds, and I need a better understanding of the art in order to accomplish that goal. The more diverse experiences I have in the field of software engineering, the closer I get to making it a reality. **To that end, I'm excited to see how I learn and grow into the future.**  
 
-Image credit: [https://en.wikipedia.org/wiki/Myst#/media/File:MystCover.png](https://en.wikipedia.org/wiki/Myst#/media/File:MystCover.png) copyright Cyan Worlds and Brøderbund.
+Image credit: [https://en.wikipedia.org/wiki/Myst#/media/File:MystCover.png](https://en.wikipedia.org/wiki/Myst#/media/File:MystCover.png) (Accessed 9/12/2021) © Cyan Worlds and Brøderbund.
