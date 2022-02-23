@@ -65,10 +65,10 @@
       "keywords": [
         "C",
         "C++",
-        "C#",
         "Python",
+        "Cython",
         "JavaScript (ES6)",
-        "TypeScript"
+        "MATLAB"
       ]
     },
     {
@@ -80,7 +80,9 @@
         "Ubuntu",
         "Git",
         "Node.js",
-        "Meteor"
+        "Meteor",
+        "React",
+        "Numpy"
       ]
     }
   ],
@@ -91,33 +93,34 @@
       "studyType": "B.S.",
       "startDate": "2019-01-10",
       "endDate": "2022-05-18",
-      "gpa": "3.89",
-      "courses": ["Operating Systems", "Software Engineering", "Interactive Media Design"
+      "gpa": "3.88",
+      "courses": ["Operating Systems", "Software Engineering I/II", "Interactive Media Design"
       ]
     }
   ],
   "work": [
     {
       "company": "University of Hawaii at Manoa",
-      "position": "EE Teaching Assistant",
+      "position": "Electrical Engineering Teaching Assistant",
       "website": "https://ee.hawaii.edu/home/",
       "startDate": "2022-01-10",
       "endDate": "2022-05-18",
       "summary": "Teaching Assistant for Basic Circuit Analysis II",
       "highlights": [
-        "Teach/lead a general Electrical Engineering laboratory section (as assigned), hold office hours, grade lab reports, prepare and grade quizzes OR tutor students in a general electrical engineering room (as assigned)."
+        "Led 2 sections of Basic Circuit Analysis II laboratory, supervising and tutoring 38 students as they design and test circuits, grading lab reports and maintaining electrical safety and part inventories"
       ]
     },
     {
       "company": "Naval Information Warfare Center Pacific (NIWC)",
-      "position": "VTEC Intern",
+      "position": "Student Intern",
       "website": "https://www.niwcpacific.navy.mil",
       "startDate": "2020-01-10",
       "endDate": "2021-08-20",
       "summary": "Research assistant for DoD basic research projects",
       "highlights": [
         "Evaluated, developed, and implemented asynchronous computer vision algorithms",
-        "Designed, performed, and analyzed experiments functionalizing semiconductor quantum dots and ionogels"
+        "Designed, performed, and analyzed experiments functionalizing semiconductor quantum dots and ionogels",
+        "Utilized MATLAB to analyze collected data and provided several technical reports to project PI"
       ]
     },
     {
@@ -144,8 +147,7 @@
       "endDate": "Present",
       "summary": "VIP Team RoSE will design and build a rover to compete in the June 2022 University Rover Competition",
       "highlights": [
-        "Designed rover control software architecture using ROS",
-        "Developed rover testing plan with continuous intergration"
+        "Designed overall software architecture and selected parts and middleware for competitive mock mars rover"
       ]
     },
     {
@@ -170,7 +172,7 @@
     },
     {
       "title": "Dean's List",
-      "date": "Spring 2019, Fall 2019, Spring 2020, Spring 2021",
+      "date": "Spring 2019, Fall 2019, Spring 2020, Spring 2021, Fall 2021",
       "awarder": "University of Hawaii College of Engineering",
       "summary": ""
     }
