@@ -64,3 +64,4 @@ function serve_photo_album(album_name, display_name) {
 The result is a persistent hyperlink for each image, such as "[https://connectiveunconscious.com/nihonnoyume/?image=3](https://connectiveunconscious.com/nihonnoyume/?image=3)". The links for "next" and "previous" are also generated and passed to the template engine. **This allows for dynamic content loading with no client-side JavaScript for the photo albums.**
 
 Source code is available [here](https://github.com/believeinlain/connectiveunconscious).
+<br/>
