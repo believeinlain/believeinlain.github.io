@@ -15,7 +15,7 @@ labels:
 
 ## Client Specifications
 
-Since this was my first experience developing software for a client, one of the first lessons was how their needs and expectations evolve over time. They initially provided us with a simple Wordpress blog that emulated the base functionality they wanted to see. This template provided a skeleton for the layout
+    Since this was my first experience developing software for a client, one of the first lessons was how their needs and expectations evolve over time. They initially provided us with a simple Wordpress blog that emulated the base functionality they wanted to see. This template provided a skeleton for the layout and some basic graphics to get us started.
 
 ## Project Management
 
