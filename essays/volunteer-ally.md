@@ -26,7 +26,7 @@ Team management for this project was anarchic, which I wanted to try, but I do n
 
 ## Code Reviews
 
-Early on in the semester, we were assigned formal code reviews, where were tasked with selecting 2 files in the project, and each member would review the style of the code against provided review guidelines.
+Early on in the semester, we were assigned formal code reviews, where were tasked with selecting 2 files in the project, and each member would review the style of the code against provided review guidelines. Early in development, there was not substantial code to review, the the exercise was not fruitful. Code reviews would have been more useful later on, and would have been even more useful if every new pull request was reviewed before merging with the main branch - maybe not every member review every feature, but at least every feature should be reviewed by someone. If we had assigned a tech lead, code reviews would have been a suitable task for them.
 
 ## Testing
 
