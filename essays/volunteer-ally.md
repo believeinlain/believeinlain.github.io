@@ -22,7 +22,6 @@ Screenshot of the client wordpress site.
 
 ## Project Management
 
-
-## Code Reviews
+Project management was anarchic, which I wanted to try, but I do not believe that it yielded the best results in this case. With no clear delegation of roles or responsibilities, and no clear picture of what the finished product was going to look and work like, we each set out to implement different parts of the application using different approaches that did not always work well together.
 
 ## Continuous Integration
