@@ -17,7 +17,7 @@ For Software Engineering II (ICS 414) at the University of Hawaii at Manoa, I jo
 
 Since this was my first experience developing software for a client, one of the first lessons was how their needs and expectations evolve over time. They initially provided us with a simple Wordpress blog that emulated the base functionality they wanted to see. This template provided a skeleton for the layout and some basic graphics to get us started. Their initial expectations were lofty, hoping for gamification on top of the base functionality. However, each client meeting, as they saw more of the site in action, they began specifying new and different details, changing the overall trajectory of the project. **In retrospect, it would have been pragmatic to write a complete design document at the outset and walk through it with a client to glean feedback before we began implementation.**
 
-![](../images/screenshot-volunteerally.org-2022.05.12-21_51_29.png)  
+<img align="center" src="../images/screenshot-volunteerally.org-2022.05.12-21_51_29.png" style="width: 100%">  
 Screenshot of the client wordpress site.
 
 ## Project Management
