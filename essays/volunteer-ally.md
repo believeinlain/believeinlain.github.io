@@ -22,9 +22,15 @@ Screenshot of the client wordpress site.
 
 ## Project Management
 
-Project management was anarchic, which I wanted to try, but I do not believe that it yielded the best results in this case. With no clear delegation of roles or responsibilities, and no clear picture of what the finished product was going to look and work like, we each set out to implement different parts of the application using different approaches that did not always work well together.
+Team management for this project was anarchic, which I wanted to try, but I do not believe that it yielded the best results in this case. With no clear delegation of roles or responsibilities, and no clear picture of what the finished product was going to look and work like, we each set out to implement different parts of the application using different approaches that did not always work well together. An example of this was one student implementing Volunteer profiles as an extension of the User profile provided in the template, while I implemented the Organization profiles as a distinct collection that can exist separate form any users. Much of the boilerplate in the template did not seem particularly well-suited to our application and was not fully fleshed out, so integrating with it caused more bugs down the line than would have creating our own account and profile stucture. Regardless of which decision was wiser, the fact that two of us went down different design trajectories was detrimental to our progress. **It would have been advantageous to assign a "technical lead" role to one of the members, to make broad design decisions and review the code written by other members.**
+
+## Code Reviews
+
+
 
 ## Continuous Integration
+
+
 
 <br/>
 <br/>
