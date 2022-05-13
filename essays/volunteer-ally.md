@@ -26,11 +26,13 @@ Team management for this project was anarchic, which I wanted to try, but I do n
 
 ## Code Reviews
 
+Early on in the semester, we were assigned formal code reviews, where were tasked with selecting 2 files in the project, and each member would review the style of the code against provided review guidelines.
 
+## Testing
 
-## Continuous Integration
+With no strict enforcement of testing every new feature, most code was added and not thoroughly tested with each pull request. Although we had properly set up continuous integration, tests specific to collections and pages were often not implemented, or at least not implemented fully. This led to the typical issues often seen in larger projects, where the addition of code in one part of the application, breaks something somewhere else that no one is aware of at the time, leading to more time wasted chasing bugs.
 
-
+## Conclusion
 
 <br/>
 <br/>
